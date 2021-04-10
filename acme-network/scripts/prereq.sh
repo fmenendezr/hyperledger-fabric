@@ -1,11 +1,7 @@
 #!/bin/bash
 
 #
-# Business Blockchain Training & Consulting SpA. All Rights Reserved.
-#
-# www.blockchainempresarial.com
-#
-# email: ricardo@blockchainempresarial.com
+# All Rights Reserved.
 #
 tmppwd=$PWD
 #Utils
